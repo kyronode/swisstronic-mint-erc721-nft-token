@@ -8,7 +8,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc721-mint-token.git
+git clone https://github.com/lordvein/swisstronic-mint-erc721-nft-token.git
 ```
 
 ```
