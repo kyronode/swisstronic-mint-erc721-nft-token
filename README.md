@@ -12,7 +12,7 @@ git clone https://github.com/lordvein/swisstronic-mint-erc721-nft-token.git
 ```
 
 ```
-cd swisstronik-erc721-mint-token
+cd swisstronic-mint-erc721-nft-token
 ```
 
 ### 2. Install Dependency
