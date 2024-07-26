@@ -1,4 +1,4 @@
-# Swisstronic Testnet Technical Task 3 Mint ERC721 NFT Token
+# Swisstronik Testnet Technical Task 3 Mint ERC721 NFT Token
 
 ## Claim Faucet First https://faucet.testnet.swisstronik.com/
 
@@ -8,11 +8,11 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/lordvein/swisstronic-mint-erc721-nft-token.git
+git clone https://github.com/lordvein/swisstronik-mint-erc721-nft-token.git
 ```
 
 ```
-cd swisstronic-mint-erc721-nft-token
+cd swisstronik-mint-erc721-nft-token
 ```
 
 ### 2. Install Dependency
